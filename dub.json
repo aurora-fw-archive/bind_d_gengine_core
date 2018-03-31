@@ -1,6 +1,7 @@
 {
 	"name": "gengine-core",
 	"targetType": "library",
+	"targetPath": "bin",
 	"sourcePaths": ["source"],
 	"importPaths": ["source"],
 	"libs": [
