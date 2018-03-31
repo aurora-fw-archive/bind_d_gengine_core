@@ -1,0 +1,9 @@
+{
+	"name": "gengine-core",
+	"targetType": "library",
+	"sourcePaths": ["src"],
+	"importPaths": ["src"],
+	"libs": [
+		"aurorafw-gengine-core"
+	]
+}

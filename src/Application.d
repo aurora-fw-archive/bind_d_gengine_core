@@ -1,11 +1,8 @@
 module aurorafw.gengine.core.application;
 
-extern (C++, AuroraFW)
+extern (C++, AuroraFW.GEngine)
 {
-	extern (C++, GEngine)
-	{
-		class Application {
-			this();
-		}
+	class Application {
+		this();
 	}
 }
